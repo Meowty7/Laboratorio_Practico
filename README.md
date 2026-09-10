@@ -22,3 +22,4 @@ Repositorio: https://github.com/Meowty7/Laboratorio_Practico
 - 2–3 de septiembre de 2026: Jorge Bristan publica `persona2.html` y `Imagenes/foto.jpg` en `rama-jorge`.
 - 3 de septiembre de 2026: fusión de `rama-jorge` en `main` (fast-forward, sin conflictos).
 - 9 de septiembre de 2026: segunda tarjeta de Franz Vera (película *Interstellar*) y este README.
+- 9 de septiembre de 2026: Rafel Cedeño publica `persona3.html` e `Imagenes/foto2.png`.
